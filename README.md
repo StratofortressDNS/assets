@@ -8,7 +8,6 @@ See [assets.strato](http://assets.strato) for some info.
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-    <script src="https://use.fontawesome.com/afed2b1f81.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="index.css" />
     <title>Example page</title>

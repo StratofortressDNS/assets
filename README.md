@@ -1,7 +1,7 @@
 # assets
 Public CSS assets used by our infrastructure sites
 
-See [http://assets.strato](assets.strato) for some info.
+See [assets.strato](http://assets.strato) for some info.
 
 ## Base HTML template
 ```html

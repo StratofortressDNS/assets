@@ -1,0 +1,22 @@
+{
+  "name": "strato-assets",
+  "version": "1.0.0",
+  "description": "Public CSS assets used by our infrastructure sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StratofortressDNS/assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StratofortressDNS/assets/issues"
+  },
+  "homepage": "https://github.com/StratofortressDNS/assets#readme",
+  "dependencies": {
+    "octicons": "^5.0.1"
+  }
+}

@@ -58,3 +58,45 @@ a {
 .fa-wrench {
     transform: scaleX(-1);
 }
+
+.body {
+    max-height: 90vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.body-container {
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Fonts */
+html {font-size: 1em;}
+
+body {
+  font-family: 'Rubik', serif;
+  line-height: 1.45;
+}
+
+p {margin-bottom: 1.3em;}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-family: 'Rubik';
+  line-height: 1.2;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.074em;
+}
+
+h2 {font-size: 1.728em;}
+
+h3 {font-size: 1.44em;}
+
+h4 {font-size: 1.2em;}
+
+small, .font_small {font-size: 0.833em;}

@@ -9,7 +9,7 @@ See [assets.strato](http://assets.strato) for some info.
 <html lang="en-us">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="http://assets.strato/index.css" />
     <title>Example page</title>
 </head>
 <body>
